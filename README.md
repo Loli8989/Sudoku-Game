@@ -63,17 +63,17 @@ Once the game is running, you will interact with the board through terminal prom
 ### Terminal Example
 ```text
  Current Board:
- 5 3 . | . 7 . | . . . 
- 6 . . | 1 9 5 | . . . 
- . 9 8 | . . . | . 6 . 
+ 5 6 . | . 2 . | . . . 
+ 3 . . | 4 1 5 | . . . 
+ . 2 9 | . . . | . 5 . 
  ------+-------+------
- 8 . . | . 6 . | . . 3
- 4 . . | 8 . 3 | . . 1
- 7 . . | . 2 . | . . 6
+ 8 . . | . 5 . | . . 9
+ 7 . . | 3 . 6 | . . 1
+ 1 . . | . 8 . | . . 5
  ------+-------+------
- . 6 . | . . . | 2 8 .
- . . . | 4 1 9 | . . 5
- . . . | . 8 . | . 7 9
+ . 8 . | . . . | 5 1 .
+ . . . | 8 3 1 | . . 4
+ . . . | . 4 . | . 7 2
 
  Enter move (row col val) to solve: 1 3 4
  Move accepted!
