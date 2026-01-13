@@ -44,10 +44,12 @@ The built-in solver uses a **depth-first search** approach to fill the board. It
    cd Sudoku-Game
 
 2. **Compile the source code using GCC**
-gcc main.c -o game
+   ```bash
+   gcc main.c -o game
 
 3. **Run the game**
-./game
+   ```bash
+   ./game
 
 ## 🎮 Gameplay Instructions
 
